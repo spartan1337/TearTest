@@ -58,5 +58,3 @@ namespace TearTest
             driver.Close();
         }
 
-    }
-}
